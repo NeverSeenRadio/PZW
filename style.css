@@ -1,0 +1,18 @@
+#crveni {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+#plavi {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+#zeleni {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
